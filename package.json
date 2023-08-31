@@ -1,0 +1,19 @@
+{
+  "name": "mysql-ms",
+  "version": "1.0.0",
+  "description": "micro servies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chankaran2996/mysql-ms.git"
+  },
+  "author": "Chandrasekaran E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chankaran2996/mysql-ms/issues"
+  },
+  "homepage": "https://github.com/chankaran2996/mysql-ms#readme"
+}
